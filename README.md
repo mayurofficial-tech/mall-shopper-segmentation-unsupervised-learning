@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="PASTE_YOUR_VIDEO_LINK_HERE"><b>🎬 &nbsp;WATCH THE VIDEO</b></a>
+  <a href="https://drive.google.com/file/d/1YiGAKMCNd0my4uSA_xFDcZ4dcTazQ0hI/view?usp=drive_link"><b>🎬 &nbsp;WATCH THE VIDEO</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="MallShopperSegmentation_UnsupervisedLearning.ipynb"><b>📓 &nbsp;OPEN NOTEBOOK</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
