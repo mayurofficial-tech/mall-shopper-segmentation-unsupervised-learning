@@ -136,24 +136,7 @@ Clustering **200 mall customers** with **K-Means, Agglomerative (Hierarchical) c
   Young Aspirers        █████                 11.0%
 ```
 
----
 
-## 🖼️ SCREENSHOTS
-
-<table>
-<tr>
-<td width="33%" align="center"><img src="images/07_kmeans_elbow_silhouette.png" alt="Elbow + Silhouette" /><br><sub><b>Elbow + Silhouette</b></sub></td>
-<td width="33%" align="center"><img src="images/08_kmeans_2d_clusters.png" alt="K-Means clusters" /><br><sub><b>K-Means clusters</b></sub></td>
-<td width="33%" align="center"><img src="images/10_dendrogram.png" alt="Dendrogram" /><br><sub><b>Dendrogram</b></sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><img src="images/12_knn_distance.png" alt="k-NN distance" /><br><sub><b>k-NN distance (DBSCAN)</b></sub></td>
-<td width="33%" align="center"><img src="images/13_dbscan_grid_heatmap.png" alt="DBSCAN grid" /><br><sub><b>DBSCAN grid</b></sub></td>
-<td width="33%" align="center"><img src="images/14_dbscan_clusters.png" alt="DBSCAN clusters" /><br><sub><b>DBSCAN clusters</b></sub></td>
-</tr>
-</table>
-
----
 
 ## ▶️ HOW TO RUN
 
